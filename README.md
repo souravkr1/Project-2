@@ -6,5 +6,6 @@ This is my repository for the Coursera's course "Exploratory Data Analysis". Cur
 To run this script you need to to the following:
 * Download the scripts (plot1.R, plot2.R, plot3.R, plot4.R, plot5.R, plot6.R) to some directory;
 * Download the data from here:http://www.epa.gov/ttn/chief/eiinformation.html;
+* We will be using following files for this project: PM2.5 Emissions Data and Source_Classification_Code;
 * Extract the data into ./Data subdirectory;
 * Run the scripts
